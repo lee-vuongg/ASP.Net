@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LQVLesson08CF",
+    "\\LQVLesson08CF\\App_Start",
+    "\\LQVLesson08CF\\bin",
+    "\\LQVLesson08CF\\Models",
+    "\\LQVLesson08CF\\Properties",
+    "\\LQVLesson08CF\\Views",
+    "\\LQVLesson08CF\\Views\\Home",
+    "\\LQVLesson08CF\\Views\\LQVCategory",
+    "\\LQVLesson08CF\\Views\\Shared"
+  ],
+  "SelectedNode": "\\LQVLesson08CF\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
