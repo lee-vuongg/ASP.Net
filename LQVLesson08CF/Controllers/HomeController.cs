@@ -13,7 +13,7 @@ namespace LQVLesson08CF.Controllers
             return View();
         }
 
-        public ActionResult LtqAbout()
+        public ActionResult LQVAbout()
         {
             ViewBag.Message = "Your application description page.";
 
